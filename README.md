@@ -10,7 +10,7 @@ You can find out more about Michele by visiting their [personal website](http://
 
 Currently this repository is a way for me to track my own exercises and solutions. There is no front-end; it's just a set of python exercises that are publicly available to review. Each challenge will be accompanied by a solution that I have created as well as the solution accepted by Pratusevich on the original website, if one is available.
 
-[You can view the table of contents here](https://github.com/rimij405/praticepython-solutions/blob/master/exercises/table-of-contents.md).
+[You can view the table of contents here](https://github.com/rimij405/praticepython-solutions/blob/master/table-of-contents.md).
 
 ### Roadmap ###
 
