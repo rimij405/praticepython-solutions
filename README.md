@@ -33,7 +33,7 @@ Below are human-readable summaries for the exercise documentation and solution l
 
 ### Exercises ###
 
-[Practice Python] was created by Michele Pratusevich and the exercises were released under the [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/).
+[Practice Python](https://www.practicepython.org) was created by Michele Pratusevich and the exercises were released under the [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
 In summary, you are free to:
 
@@ -46,9 +46,7 @@ These freedoms cannot be revoked as long as you adhere to the following terms:
 
 ### Solutions ###
 
-In the vein of keeping things free (libre) and open source, the Python exercises in this repository are released underneath the permissive [MIT License](https://opensource.org/licenses/MIT).
-
-In summary, you are free to **modify**, **distribute**, and **sublicense** the code for **commercial** or **non-commercial** and **public** or **private** use.
+In the vein of keeping things free (libre) and open source, the Python exercises in this repository are released underneath the permissive [MIT License](https://opensource.org/licenses/MIT). In summary, you are free to **modify**, **distribute**, and **sublicense** the code for **commercial** or **non-commercial** and **public** or **private** use.
 
 ## How to Contribute ##
 
