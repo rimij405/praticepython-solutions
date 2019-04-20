@@ -92,4 +92,51 @@ This is a checklist of solutions for each of the exercises listed above. If it i
 
 ## Resources for Learners ##
 
-__Section pending.__
+Michele provided this [collection of resources for learners](https://www.practicepython.org/resources-for-learners/) on the website. It has been reposted here for your convienience.
+
+### Online Courses ###
+
+The following are **free** and **online** courses that learners can take to learn more about Python.
+
+#### Free Courses ####
+
+- [Codecademy](https://www.codecademy.com/learn/python)
+- [OCW (OpenCourseWare) form MIT](http://ocw.mit.edu/)
+  
+  - OCW [6.189: A Gentle Introduction to Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/)
+  - OCW [6.00SC: Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+  - OCW [6.00: Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/)
+  
+- [edX](https://www.edx.org/course/subject/computer-science/python)
+
+#### Paid Courses ####
+
+- [Treehouse](http://treehouse.7eer.net/c/348966/245646/3944)
+- [Udemy](http://click.linksynergy.com/fs-bin/click?id=xcNOXHETw7Y&offerid=323058.7&type=3&subid=0)
+
+  - [Automate the Boring Stuff](http://click.linksynergy.com/fs-bin/click?id=xcNOXHETw7Y&offerid=323058.3099&type=3&subid=0)
+
+- [Coursera](http://click.linksynergy.com/fs-bin/click?id=xcNOXHETw7Y&offerid=479491.31&type=3&subid=0)
+  
+  - ["Python Specialization for Everybody"](http://click.linksynergy.com/fs-bin/click?id=xcNOXHETw7Y&offerid=479491.31&type=3&subid=0)
+
+### Online Resources ###
+
+These are some online resources that you might find useful while learning Python!
+
+#### PythonTutor ####
+
+[PythonTutor](http://pythontutor.com/) visualizes the line-by-line execution of any Python program that you write, directly in the browser.
+
+#### repl.it ####
+
+[repl.it](https://repl.it/languages/python3) is an in-browser text editor that allows you to code directly in the cloud! Python3 is just one of the many supported languages.
+
+### Books ###
+
+The following are a list of books suggested on the Practice Python resources page. Michele's chili rankings are included.
+
+- [Automate the Boring Stuff with Python (**)](http://amzn.to/2j6UNsR) by Al Sweigart.
+- [Learn Python the Hard Way (***)](http://amzn.to/2k2CSm9) by Zed Shaw. [Access the free version online](https://learnpythonthehardway.org/book/).
+- [Effective Python (***)](http://amzn.to/2kbmRtC) by Brett Slatkin.
+- [Python Crash Course (****)](http://amzn.to/2j6WSEM) by Eric Matthes.
